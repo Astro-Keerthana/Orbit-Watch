@@ -12,7 +12,7 @@
 ![NASA API](https://img.shields.io/badge/NASA-Open%20APIs-0B3D91?style=flat&logo=nasa&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](assets/preview.png)
 
 </div>
 
@@ -28,6 +28,7 @@
 | 🌟 **APOD** | Astronomy Picture of the Day with full explanation | NASA APOD API |
 | 📊 **Analytics** | Threat distribution, size histograms, statistical summary | Derived from live API data |
 
+![Dashboard Preview](assets/header.png)
 ---
 
 ## 🛠 Tech Stack
