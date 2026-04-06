@@ -1,8 +1,8 @@
-# NASA-Mission-Control
+# Orbit Watch V1.0
 
 <div align="center">
 
-# 🚀 NASA Mission Control Dashboard v3.0
+# 🚀 Mission Control Dashboard v3.0
 
 **A real-time space data dashboard powered by NASA's Open APIs**
 
