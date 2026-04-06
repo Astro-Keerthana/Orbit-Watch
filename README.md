@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Mission Control Dashboard v3.0
+# 🚀 Mission Control Dashboard v1.0
 
 **A real-time space data dashboard powered by NASA's Open APIs**
 
